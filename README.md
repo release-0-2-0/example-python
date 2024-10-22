@@ -1,4 +1,4 @@
-# [:] Example Python 2 Project
+# [:] Example Python 2 Project1
 
 An example Python project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
